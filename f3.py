@@ -1,0 +1,1 @@
+print("branching assignment in f3.py")
